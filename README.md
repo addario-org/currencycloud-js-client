@@ -6,7 +6,7 @@
 
 # Currencycloud API v2 JavaScript client
 
-## Version: 3.4.0-ea (FORK)
+## Version: 3.4.0.ea (FORK)
 This is a **FORK** from the official [Javascript SDK for v2 of Currencycloud's API.][original] While it tries to keep in sync with the upstream version, it does also include enhancements and modifications ranging from bugfixes to usability features.
 
 Additional documentation for each API endpoint can be found at [Currencycloud API documentation][introduction]. If you have any queries or you require support, please contact their development team at development@currencycloud.com
@@ -22,7 +22,7 @@ registry=https://npm.pkg.github.com/addario-org
 
 ```sh
 "dependencies": {
-    "@addario-org/currencycloud-js-client": "3.4.0-ea"
+    "@addario-org/currencycloud-js-client": "3.4.0.ea"
   }
 ```
 

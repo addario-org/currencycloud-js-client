@@ -1,8 +1,8 @@
 {
   "name": "@addario-org/currencycloud-js-client",
   "description": "Currencycloud API v2 JavaScript client (FORK)",
-  "version": "3.4.0-ea",
-  "author": "Currencycloud",
+  "version": "3.4.0.ea",
+  "author": "Ed Addario",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
